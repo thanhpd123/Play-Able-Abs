@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "/Untitled-5.html"
+        }
+    ]
+}
